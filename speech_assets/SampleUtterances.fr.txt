@@ -726,7 +726,7 @@ PlayerMoveUp déplace vers le haut
 PlayerRotateClockwise tourne
 PlayerRotateClockwise tourne dans le sens des aiguilles
 PlayerRotateClockwise tourne dans le sens des aiguilles d'une montre
-PlayerRotateClockwise tourne de ninety°
+PlayerRotateClockwise tourne de quatre-vingt-dix degrés
 PlayerRotateCounterClockwise tourne dans le sens inverse des aiguilles
 PlayerRotateCounterClockwise tourne dans le sens inverse des aiguilles d'une montre
 PlayerSeekBackward recule de {BackwardDur}

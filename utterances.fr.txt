@@ -69,7 +69,7 @@ PlayerMoveUp (déplace/bouge) vers le haut
 PlayerMoveDown (déplace/bouge) vers le bas
 PlayerMoveLeft (déplace/bouge) vers la gauche
 PlayerMoveRight (déplace/bouge) vers la droite
-PlayerRotateClockwise tourne (/dans le sens des aiguilles (/d'une montre)/de 90°)
+PlayerRotateClockwise tourne (/dans le sens des aiguilles (/d'une montre)/de quatre-vingt-dix degrés)
 PlayerRotateCounterClockwise tourne dans le sens inverse des aiguilles (/d'une montre)
 PlayerZoomHold ne bouge (pas/plus)
 PlayerZoomHold arrête de bouger
