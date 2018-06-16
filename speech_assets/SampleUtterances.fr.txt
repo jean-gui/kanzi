@@ -1335,14 +1335,14 @@ ShuffleVideoPlaylist mélange la liste de séries {VideoPlaylist}
 ShuffleVideoPlaylist mélange la liste video {VideoPlaylist}
 Shutdown éteins
 Shutdown éteins le système
-StereoscopicMode active la 3.D.
+StereoscopicMode active la trois D
 StereoscopicMode active la stéréoscopie
-StereoscopicMode active le mode 3.D.
+StereoscopicMode active le mode trois D
 StereoscopicMode active le mode stéréoscopie
 StereoscopicMode active le mode stéréoscopique
-StereoscopicMode désactive la 3.D.
+StereoscopicMode désactive la trois D
 StereoscopicMode désactive la stéréoscopie
-StereoscopicMode désactive le mode 3.D.
+StereoscopicMode désactive le mode trois D
 StereoscopicMode désactive le mode stéréoscopie
 StereoscopicMode désactive le mode stéréoscopique
 SubtitlesDownload download des sous-titres
