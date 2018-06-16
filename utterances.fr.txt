@@ -40,8 +40,8 @@ ViewPlaylist (ouvre/va/affiche/montre) la (liste de lecture/playlist) {VideoPlay
 
 Fullscreen (passe en/active le/désactive le) plein écran
 Fullscreen (active/désactive) la visualisation
-StereoscopicMode (active/désactive) la (3D/stéréoscopie)
-StereoscopicMode (active/désactive) le mode (3D/stéréoscopie/stéréoscopique)
+StereoscopicMode (active/désactive) la (3.D./stéréoscopie)
+StereoscopicMode (active/désactive) le mode (3.D./stéréoscopie/stéréoscopique)
 
 AudioPassthrough (active/désactive) l'audio (passthrough/digital)
 AudioPassthrough (active/désactive) le passthrough (digital/audio)
